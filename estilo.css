@@ -1,0 +1,14 @@
+
+body{
+    border: 2px;
+    margin: 0 auto;
+    background-image: url(fundo.png);
+}
+.link{
+    padding-left: 100px;
+}
+#img-capa{
+    padding-top: 30px;
+    max-width: 600px;
+    max-height: 400px;
+}
